@@ -1,0 +1,375 @@
+/* Compiled Less CSS File */
+/* Generated from "list.default.css" */
+
+html,
+body {
+  font-family: "微软雅黑";
+  margin: 0px;
+  padding: 0px;
+  font-size: 12px;
+  background-color: #F8F8F8;
+}
+a {
+  text-decoration: none;
+  color: #1462AF;
+}
+a:hover {
+  color: #CC0000;
+}
+.hui {
+  color: #999;
+}
+.blu {
+  color: #09C;
+}
+.red {
+  color: #C00;
+}
+.org {
+  color: #F60;
+}
+.gre {
+  color: #390;
+}
+.tablebox {
+  width: 98%;
+  margin: 0 auto;
+  padding: 0px;
+  margin-bottom: 30px;
+}
+.tablebox:hover {
+  box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
+}
+.margintop {
+  margin-top: 10px;
+}
+.smbox-list-toptab {
+  padding: 5px 0;
+  line-height: 30px;
+}
+.smbox-toptags {
+  border-collapse: collapse;
+  background-position: left -350px;
+  height: 31px;
+  margin-top: 10px;
+  margin-bottom: 5px;
+  border-bottom: #CCCCCC 1px solid;
+  _overflow: hidden;
+}
+.smbox-toptags a {
+  -webkit-border-top-left-radius: 4px;
+  -moz-border-top-left-radius: 4px;
+  -ms-border-top-left-radius: 4px;
+  -o-border-top-left-radius: 4px;
+  -webkit-border-top-right-radius: 4px;
+  -moz-border-top-right-radius: 4px;
+  -ms-border-top-right-radius: 4px;
+  -o-border-top-right-radius: 4px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  float: left;
+  cursor: pointer;
+  display: inline-block;
+  line-height: 30px;
+  height: 30px;
+  border: #CCCCCC 1px solid;
+  padding-left: 12px;
+  padding-right: 12px;
+  background: #F7F7F7;
+  margin-left: 8px;
+  position: relative;
+}
+.smbox-toptags a:hover {
+  color: #CC0000;
+}
+.smbox-toptags a.active {
+  color: #CC0000;
+  background: none;
+  background-color: #FFFFFF;
+  border-bottom: #FFFFFF 1px solid;
+  height: 30px;
+  font-weight: bold;
+}
+.listbox {
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  -o-border-radius: 4px;
+  border-radius: 4px;
+  border: solid 1px #DDD;
+  overflow: hidden;
+}
+.smbox-list-title {
+  -webkit-border-top-left-radius: 4px;
+  -moz-border-top-left-radius: 4px;
+  -ms-border-top-left-radius: 4px;
+  -o-border-top-left-radius: 4px;
+  -webkit-border-top-right-radius: 4px;
+  -moz-border-top-right-radius: 4px;
+  -ms-border-top-right-radius: 4px;
+  -o-border-top-right-radius: 4px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  width: 100%;
+  border-bottom: solid 1px #DDD;
+  padding: 0 10px;
+  text-align: left;
+  background-color: #f7f7f7;
+  background-image: -moz-linear-gradient(top, #f7f7f7, #e1e1e1);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#f7f7f7), to(#e1e1e1));
+  background-image: -webkit-linear-gradient(top, #f7f7f7, #e1e1e1);
+  background-image: -o-linear-gradient(top, #f7f7f7, #e1e1e1);
+  background-image: linear-gradient(to bottom, #f7f7f7, #e1e1e1);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fff7f7f7', endColorstr='#ffe1e1e1', GradientType=0);
+  filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
+  color: #444;
+  font-size: 12px;
+  font-weight: bold;
+  text-shadow: 0 1px 1px #ffffff;
+  padding: 0 8px;
+  height: 38px;
+  line-height: 38px;
+}
+.smbox-list-table {
+  margin-top: 5px;
+  background: #FFFFFF;
+  border-collapse: collapse;
+}
+.smbox-list-table th {
+  background-color: #F1F1F1;
+  border-bottom: solid 1px #EEE;
+  border-top: solid 1px #EEE;
+  padding: 3px;
+  line-height: 28px;
+}
+.smbox-list-table td {
+  border-bottom: solid 1px #EEE;
+  border-top: solid 1px #EEE;
+  padding: 3px;
+  line-height: 28px;
+  font-weight: normal;
+  text-shadow: 0 1px 1px #ffffff;
+}
+.smbox-list-table td img,
+.smbox-list-table td input {
+  vertical-align: middle;
+}
+.smbox-list-table td.opts a {
+  padding: 2px 5px;
+  border: 1px outset #ccc;
+  background-color: #EEEAEE;
+  display: inline-block;
+  line-height: 18px;
+  margin: 0 5px 0 0;
+  text-decoration: none;
+  text-align: center;
+  cursor: pointer;
+  background-color: #ffffff;
+  background-image: -moz-linear-gradient(top, #ffffff, #e6e6e6);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), to(#e6e6e6));
+  background-image: -webkit-linear-gradient(top, #ffffff, #e6e6e6);
+  background-image: -o-linear-gradient(top, #ffffff, #e6e6e6);
+  background-image: linear-gradient(to bottom, #ffffff, #e6e6e6);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#ffe6e6e6', GradientType=0);
+  filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
+  background-repeat: repeat-x;
+  border: 1px solid #cccccc;
+  border-color: #e6e6e6 #e6e6e6 #bfbfbf;
+  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+  border-bottom-color: #b3b3b3;
+  *zoom: 1;
+  -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+  -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+  text-shadow: 0 1px 1px rgba(255, 255, 255, 0.75);
+  color: #2A2A2A;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  -o-border-radius: 4px;
+  border-radius: 4px;
+}
+.smbox-list-table td.opts a:hover {
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.1);
+  color: #CC0000;
+}
+.smbox-list-content {
+  background-color: #FFFFFF;
+  padding: 5px 10px 0px 10px;
+}
+.smbox-info-tips {
+  background-color: #FFFFFF;
+  padding: 5px 0px 5px 0px;
+  -webkit-border-bottom-left-radius: 4px;
+  -moz-border-bottom-left-radius: 4px;
+  -ms-border-bottom-left-radius: 4px;
+  -o-border-bottom-left-radius: 4px;
+  -webkit-border-bottom-right-radius: 4px;
+  -moz-border-bottom-right-radius: 4px;
+  -ms-border-bottom-right-radius: 4px;
+  -o-border-bottom-right-radius: 4px;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+}
+a.samao-link-minibtn {
+  padding: 2px 5px;
+  border: 1px outset #ccc;
+  background-color: #EEEAEE;
+  display: inline-block;
+  line-height: 18px;
+  margin: 0 5px 0 0;
+  text-decoration: none;
+  text-align: center;
+  cursor: pointer;
+  background-color: #ffffff;
+  background-image: -moz-linear-gradient(top, #ffffff, #e6e6e6);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), to(#e6e6e6));
+  background-image: -webkit-linear-gradient(top, #ffffff, #e6e6e6);
+  background-image: -o-linear-gradient(top, #ffffff, #e6e6e6);
+  background-image: linear-gradient(to bottom, #ffffff, #e6e6e6);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#ffe6e6e6', GradientType=0);
+  filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
+  border: 1px solid #cccccc;
+  border-color: #e6e6e6 #e6e6e6 #bfbfbf;
+  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+  border-bottom-color: #b3b3b3;
+  *zoom: 1;
+  -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+  -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+  text-shadow: 0 1px 1px rgba(255, 255, 255, 0.75);
+  color: #2A2A2A;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  -o-border-radius: 4px;
+  border-radius: 4px;
+}
+a.samao-link-minibtn:hover {
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.1);
+  color: #CC0000;
+}
+/* 注意、警告框 */
+.attention {
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  -o-border-radius: 4px;
+  border-radius: 4px;
+  background: url(imgs/exclamation.png) 10px 11px no-repeat #fffbcc;
+  border: 1px #E6DB55 solid;
+  color: #333;
+  margin: 10px;
+  padding: 8px 8px 8px 35px;
+  line-height: 22px;
+}
+/* 信息提示框 */
+.information {
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  -o-border-radius: 4px;
+  border-radius: 4px;
+  background: url(imgs/information.png) 10px 11px no-repeat #f8fbfe;
+  border: 1px #DBE3FF solid;
+  color: #585B66;
+  margin: 10px;
+  padding: 8px 8px 8px 35px;
+  line-height: 22px;
+}
+/* 成功、正确消息框 */
+.success {
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  -o-border-radius: 4px;
+  border-radius: 4px;
+  background: url(imgs/accept.png) 10px 11px no-repeat #d5ffce;
+  border: 1px #9ADF8F solid;
+  padding: 8px 8px 8px 35px;
+  margin: 10px;
+  line-height: 22px;
+}
+/* 错误、失败消息框 */
+.error {
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  -o-border-radius: 4px;
+  border-radius: 4px;
+  background: url(imgs/delete.png) 10px 11px no-repeat #ffcece;
+  border: 1px #DF8F8F solid;
+  color: #665252;
+  margin: 10px;
+  padding: 8px 8px 8px 35px;
+  line-height: 22px;
+}
+/* 页脚 */
+.footer {
+  line-height: 18px;
+  padding: 0 0 20px 10px;
+  color: #999;
+  margin: 10px auto;
+  text-align: center;
+}
+.footer a {
+  color: #999;
+}
+.footer a:hover {
+  color: #333;
+  text-decoration: underline;
+}
+.samao-pagebar {
+  width: 100%;
+  padding: 10px 0;
+  height: 24px;
+}
+.samao-pagebar .pagebar {
+  float: left;
+}
+.samao-pagebar .pagebar a,
+.samao-pagebar .pagebar b,
+.samao-pagebar .pagebar .break {
+  text-decoration: none;
+  color: #666;
+  display: inline-block;
+  height: 20px;
+  line-height: 20px;
+  float: left;
+  margin-right: 3px;
+  padding: 0 6px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  text-shadow: 0 1px 1px rgba(255, 255, 255, 0.75);
+  cursor: pointer;
+  background-color: #ffffff;
+  background-image: -moz-linear-gradient(top, #ffffff, #e6e6e6);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), to(#e6e6e6));
+  background-image: -webkit-linear-gradient(top, #ffffff, #e6e6e6);
+  background-image: -o-linear-gradient(top, #ffffff, #e6e6e6);
+  background-image: linear-gradient(to bottom, #ffffff, #e6e6e6);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#ffe6e6e6', GradientType=0);
+  filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
+}
+.samao-pagebar .pagebar .break {
+  background: none;
+  cursor: default;
+}
+.samao-pagebar .pagebar a {
+  border: 1px solid #999;
+  background-color: #FFF;
+}
+.samao-pagebar .pagebar a:hover {
+  box-shadow: 0 0 2px rgba(0, 0, 0, 0.2);
+}
+.samao-pagebar .pagebar b {
+  border: 1px solid #666;
+  background: none;
+  background-color: #666;
+  color: #FFF;
+}
+.samao-pagebar .pagebar_info {
+  float: right;
+  line-height: 22px;
+}

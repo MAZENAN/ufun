@@ -1,0 +1,3200 @@
+2016-03-23 16:03:40 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNviq578zYwtAvFVHSDPVUr2E]]></FromUserName>
+<CreateTime>1458720220</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[2]]></Content>
+<MsgId>6265155639326902839</MsgId>
+</xml>
+2016-03-23 16:03:40 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNviq578zYwtAvFVHSDPVUr2E]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458720220</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[欢迎关注营天下，全球营地项目优选平台！
+海量优质营地资源分享，最先进教育理念传播，全网最优惠信息尽在营天下！
+1. <a href='http://webchat.51camp.cn/cncamp.html'>点击了解国内主题营</a>
+2. <a href='http://webchat.51camp.cn/glcamp.html'>点击了解全球营地</a>
+3. <a href='http://webchat.51camp.cn/ovcamp.html'>点击了解境外游学</a>
+客服热线：400-878-3633
+客服邮箱：help@51camp.cn
+点击进入<a href='http://m.51camp.cn/'>营天下官网</a>
+ ]]></Content>
+</xml>
+2016-03-23 16:13:58 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvpa093X2FpRm0bN6MhID7Yc]]></FromUserName>
+<CreateTime>1458720838</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/glcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 16:13:58 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvpa093X2FpRm0bN6MhID7Yc]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458720838</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/glcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 16:34:15 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvjeC7S0recFw3qfcdKoPXxk]]></FromUserName>
+<CreateTime>1458722055</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 16:34:15 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvjeC7S0recFw3qfcdKoPXxk]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458722055</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 16:34:20 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvjeC7S0recFw3qfcdKoPXxk]]></FromUserName>
+<CreateTime>1458722060</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 16:34:20 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvjeC7S0recFw3qfcdKoPXxk]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458722060</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 16:51:19 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvtsnIrXNBpH53RwecfzWBP0]]></FromUserName>
+<CreateTime>1458723079</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 16:51:19 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvtsnIrXNBpH53RwecfzWBP0]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458723079</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 16:51:59 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvtsnIrXNBpH53RwecfzWBP0]]></FromUserName>
+<CreateTime>1458723119</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=17&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 16:51:59 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvtsnIrXNBpH53RwecfzWBP0]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458723119</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=17&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 16:52:13 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvr3VRBj7FVJyGIHfoo3VvMM]]></FromUserName>
+<CreateTime>1458723133</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/glcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 16:52:13 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvr3VRBj7FVJyGIHfoo3VvMM]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458723133</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/glcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 16:53:55 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvr3VRBj7FVJyGIHfoo3VvMM]]></FromUserName>
+<CreateTime>1458723235</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/glcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 16:53:55 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvr3VRBj7FVJyGIHfoo3VvMM]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458723235</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/glcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 17:00:44 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvjeC7S0recFw3qfcdKoPXxk]]></FromUserName>
+<CreateTime>1458723644</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ovcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 17:00:44 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvjeC7S0recFw3qfcdKoPXxk]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458723644</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ovcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 17:00:48 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvjeC7S0recFw3qfcdKoPXxk]]></FromUserName>
+<CreateTime>1458723648</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/glcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 17:00:48 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvjeC7S0recFw3qfcdKoPXxk]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458723648</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/glcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 17:01:18 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvjeC7S0recFw3qfcdKoPXxk]]></FromUserName>
+<CreateTime>1458723678</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/glcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 17:01:18 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvjeC7S0recFw3qfcdKoPXxk]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458723678</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/glcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 17:01:45 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvm5sxX6UCpEfnSBZZRct-ho]]></FromUserName>
+<CreateTime>1458723705</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 17:01:45 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvm5sxX6UCpEfnSBZZRct-ho]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458723705</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 17:03:58 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvm5sxX6UCpEfnSBZZRct-ho]]></FromUserName>
+<CreateTime>1458723838</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=17&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 17:03:58 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvm5sxX6UCpEfnSBZZRct-ho]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458723838</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=17&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 17:12:32 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvrkcSdLrgfYfPMsJSDXM22c]]></FromUserName>
+<CreateTime>1458724352</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 17:12:32 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvrkcSdLrgfYfPMsJSDXM22c]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458724352</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 17:15:33 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvr3VRBj7FVJyGIHfoo3VvMM]]></FromUserName>
+<CreateTime>1458724533</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/glcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 17:15:33 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvr3VRBj7FVJyGIHfoo3VvMM]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458724533</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/glcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 17:25:13 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvjz4kf77nGPP9qLvFwSoeIc]]></FromUserName>
+<CreateTime>1458725113</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/glcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 17:25:13 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvjz4kf77nGPP9qLvFwSoeIc]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458725113</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/glcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 17:55:37 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvqjBIYy8b25GuQcunaXn-wU]]></FromUserName>
+<CreateTime>1458726937</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/glcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 17:55:37 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvqjBIYy8b25GuQcunaXn-wU]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458726937</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/glcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 18:10:36 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvkWeQJW7lEbO8Sv2cQPgyN8]]></FromUserName>
+<CreateTime>1458727836</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2016-03-23 18:10:36 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvkWeQJW7lEbO8Sv2cQPgyN8]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458727836</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[欢迎关注营天下，全球营地项目优选平台！
+海量优质营地资源分享，最先进教育理念传播，全网最优惠信息尽在营天下！
+1. <a href='http://webchat.51camp.cn/cncamp.html'>点击了解国内主题营</a>
+2. <a href='http://webchat.51camp.cn/glcamp.html'>点击了解全球营地</a>
+3. <a href='http://webchat.51camp.cn/ovcamp.html'>点击了解境外游学</a>
+客服热线：400-878-3633
+客服邮箱：help@51camp.cn
+点击进入<a href='http://m.51camp.cn/'>营天下官网</a>
+ ]]></Content>
+</xml>
+2016-03-23 18:37:15 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvs_tbdaCkbxenNecp0Mi1U8]]></FromUserName>
+<CreateTime>1458729435</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=15&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 18:37:15 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvs_tbdaCkbxenNecp0Mi1U8]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458729435</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=15&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 18:41:44 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvs_tbdaCkbxenNecp0Mi1U8]]></FromUserName>
+<CreateTime>1458729704</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/order.html?state=2&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 18:41:44 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvs_tbdaCkbxenNecp0Mi1U8]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458729704</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/order.html?state=2&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 19:10:52 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvufArm3vrmqbk8SWdm3Eo00]]></FromUserName>
+<CreateTime>1458731452</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2016-03-23 19:10:52 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvufArm3vrmqbk8SWdm3Eo00]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458731452</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[欢迎关注营天下，全球营地项目优选平台！
+海量优质营地资源分享，最先进教育理念传播，全网最优惠信息尽在营天下！
+1. <a href='http://webchat.51camp.cn/cncamp.html'>点击了解国内主题营</a>
+2. <a href='http://webchat.51camp.cn/glcamp.html'>点击了解全球营地</a>
+3. <a href='http://webchat.51camp.cn/ovcamp.html'>点击了解境外游学</a>
+客服热线：400-878-3633
+客服邮箱：help@51camp.cn
+点击进入<a href='http://m.51camp.cn/'>营天下官网</a>
+ ]]></Content>
+</xml>
+2016-03-23 19:11:08 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvufArm3vrmqbk8SWdm3Eo00]]></FromUserName>
+<CreateTime>1458731468</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/glcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 19:11:08 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvufArm3vrmqbk8SWdm3Eo00]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458731468</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/glcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 19:11:54 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvufArm3vrmqbk8SWdm3Eo00]]></FromUserName>
+<CreateTime>1458731514</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ovcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 19:11:54 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvufArm3vrmqbk8SWdm3Eo00]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458731514</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ovcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 19:14:41 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvufArm3vrmqbk8SWdm3Eo00]]></FromUserName>
+<CreateTime>1458731681</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 19:14:41 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvufArm3vrmqbk8SWdm3Eo00]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458731681</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 19:30:34 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvuZgYnVPgYPpmYj2FzziQkA]]></FromUserName>
+<CreateTime>1458732634</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 19:30:34 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvuZgYnVPgYPpmYj2FzziQkA]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458732634</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 19:31:55 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvktQQEUuiqeJx6sOqclKn_8]]></FromUserName>
+<CreateTime>1458732715</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2016-03-23 19:31:55 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvktQQEUuiqeJx6sOqclKn_8]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458732715</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[欢迎关注营天下，全球营地项目优选平台！
+海量优质营地资源分享，最先进教育理念传播，全网最优惠信息尽在营天下！
+1. <a href='http://webchat.51camp.cn/cncamp.html'>点击了解国内主题营</a>
+2. <a href='http://webchat.51camp.cn/glcamp.html'>点击了解全球营地</a>
+3. <a href='http://webchat.51camp.cn/ovcamp.html'>点击了解境外游学</a>
+客服热线：400-878-3633
+客服邮箱：help@51camp.cn
+点击进入<a href='http://m.51camp.cn/'>营天下官网</a>
+ ]]></Content>
+</xml>
+2016-03-23 19:33:08 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvtJskN33eUXCr6jJAopAKeE]]></FromUserName>
+<CreateTime>1458732788</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2016-03-23 19:33:08 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvtJskN33eUXCr6jJAopAKeE]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458732788</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[欢迎关注营天下，全球营地项目优选平台！
+海量优质营地资源分享，最先进教育理念传播，全网最优惠信息尽在营天下！
+1. <a href='http://webchat.51camp.cn/cncamp.html'>点击了解国内主题营</a>
+2. <a href='http://webchat.51camp.cn/glcamp.html'>点击了解全球营地</a>
+3. <a href='http://webchat.51camp.cn/ovcamp.html'>点击了解境外游学</a>
+客服热线：400-878-3633
+客服邮箱：help@51camp.cn
+点击进入<a href='http://m.51camp.cn/'>营天下官网</a>
+ ]]></Content>
+</xml>
+2016-03-23 19:39:05 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvsWqXsxCrvd9l0s1JOOpxSA]]></FromUserName>
+<CreateTime>1458733145</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=15&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 19:39:05 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvsWqXsxCrvd9l0s1JOOpxSA]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458733145</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=15&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 19:40:49 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvri8c9A37SNnVAzRnK1sFNk]]></FromUserName>
+<CreateTime>1458733249</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2016-03-23 19:40:49 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvri8c9A37SNnVAzRnK1sFNk]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458733249</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[欢迎关注营天下，全球营地项目优选平台！
+海量优质营地资源分享，最先进教育理念传播，全网最优惠信息尽在营天下！
+1. <a href='http://webchat.51camp.cn/cncamp.html'>点击了解国内主题营</a>
+2. <a href='http://webchat.51camp.cn/glcamp.html'>点击了解全球营地</a>
+3. <a href='http://webchat.51camp.cn/ovcamp.html'>点击了解境外游学</a>
+客服热线：400-878-3633
+客服邮箱：help@51camp.cn
+点击进入<a href='http://m.51camp.cn/'>营天下官网</a>
+ ]]></Content>
+</xml>
+2016-03-23 20:01:04 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvrV-z93Y1O7TWCg4mKri5NU]]></FromUserName>
+<CreateTime>1458734464</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 20:01:04 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvrV-z93Y1O7TWCg4mKri5NU]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458734464</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 20:12:02 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvtIgh1NAdlEOfZnfpJwuUjY]]></FromUserName>
+<CreateTime>1458735122</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 20:12:02 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvtIgh1NAdlEOfZnfpJwuUjY]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458735122</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 20:27:21 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvmQy4I7sbN125-Be5pr6X8I]]></FromUserName>
+<CreateTime>1458736041</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2016-03-23 20:27:21 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvmQy4I7sbN125-Be5pr6X8I]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458736041</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[欢迎关注营天下，全球营地项目优选平台！
+海量优质营地资源分享，最先进教育理念传播，全网最优惠信息尽在营天下！
+1. <a href='http://webchat.51camp.cn/cncamp.html'>点击了解国内主题营</a>
+2. <a href='http://webchat.51camp.cn/glcamp.html'>点击了解全球营地</a>
+3. <a href='http://webchat.51camp.cn/ovcamp.html'>点击了解境外游学</a>
+客服热线：400-878-3633
+客服邮箱：help@51camp.cn
+点击进入<a href='http://m.51camp.cn/'>营天下官网</a>
+ ]]></Content>
+</xml>
+2016-03-23 20:27:33 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvmQy4I7sbN125-Be5pr6X8I]]></FromUserName>
+<CreateTime>1458736053</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 20:27:33 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvmQy4I7sbN125-Be5pr6X8I]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458736053</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 20:28:07 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvmQy4I7sbN125-Be5pr6X8I]]></FromUserName>
+<CreateTime>1458736087</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ovcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 20:28:07 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvmQy4I7sbN125-Be5pr6X8I]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458736087</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ovcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 20:31:52 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvgBlf5Mul-uo3-G4Sf828lw]]></FromUserName>
+<CreateTime>1458736312</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2016-03-23 20:31:52 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvgBlf5Mul-uo3-G4Sf828lw]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458736312</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[欢迎关注营天下，全球营地项目优选平台！
+海量优质营地资源分享，最先进教育理念传播，全网最优惠信息尽在营天下！
+1. <a href='http://webchat.51camp.cn/cncamp.html'>点击了解国内主题营</a>
+2. <a href='http://webchat.51camp.cn/glcamp.html'>点击了解全球营地</a>
+3. <a href='http://webchat.51camp.cn/ovcamp.html'>点击了解境外游学</a>
+客服热线：400-878-3633
+客服邮箱：help@51camp.cn
+点击进入<a href='http://m.51camp.cn/'>营天下官网</a>
+ ]]></Content>
+</xml>
+2016-03-23 20:31:56 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvmQy4I7sbN125-Be5pr6X8I]]></FromUserName>
+<CreateTime>1458736316</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=15&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 20:31:56 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvmQy4I7sbN125-Be5pr6X8I]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458736316</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=15&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 20:38:29 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvnKqOohsPqf_JoNXmLM2_wI]]></FromUserName>
+<CreateTime>1458736709</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 20:38:29 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvnKqOohsPqf_JoNXmLM2_wI]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458736709</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 20:43:24 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvhIMUjqFKKUFsTjgTVGiJPM]]></FromUserName>
+<CreateTime>1458737004</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 20:43:24 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvhIMUjqFKKUFsTjgTVGiJPM]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458737004</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 20:46:18 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvrYGWs32BHc5_uTENjB7Pgk]]></FromUserName>
+<CreateTime>1458737178</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 20:46:18 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvrYGWs32BHc5_uTENjB7Pgk]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458737178</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 20:47:51 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvrYGWs32BHc5_uTENjB7Pgk]]></FromUserName>
+<CreateTime>1458737271</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/order.html?state=2&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 20:47:51 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvrYGWs32BHc5_uTENjB7Pgk]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458737271</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/order.html?state=2&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 20:47:59 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvrYGWs32BHc5_uTENjB7Pgk]]></FromUserName>
+<CreateTime>1458737279</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=15&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 20:47:59 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvrYGWs32BHc5_uTENjB7Pgk]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458737279</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=15&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 20:50:01 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvmQy4I7sbN125-Be5pr6X8I]]></FromUserName>
+<CreateTime>1458737401</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 20:50:01 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvmQy4I7sbN125-Be5pr6X8I]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458737401</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 20:53:17 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvs_tbdaCkbxenNecp0Mi1U8]]></FromUserName>
+<CreateTime>1458737597</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 20:53:17 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvs_tbdaCkbxenNecp0Mi1U8]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458737597</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 20:56:17 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvuGVblske86hf41wic7dceY]]></FromUserName>
+<CreateTime>1458737777</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2016-03-23 20:56:17 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvuGVblske86hf41wic7dceY]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458737777</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[取消关注]]></Content>
+</xml>
+2016-03-23 20:56:19 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvmVIWLSOyXYO0gnDFXQb6J8]]></FromUserName>
+<CreateTime>1458737779</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[MASSSENDJOBFINISH]]></Event>
+<MsgID>412988645</MsgID>
+<Status><![CDATA[send success]]></Status>
+<TotalCount>3868</TotalCount>
+<FilterCount>3868</FilterCount>
+<SentCount>3867</SentCount>
+<ErrorCount>0</ErrorCount>
+</xml>
+2016-03-23 20:56:19 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvmVIWLSOyXYO0gnDFXQb6J8]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458737779</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[receive a new event: MASSSENDJOBFINISH]]></Content>
+</xml>
+2016-03-23 20:56:40 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvhsd0prK18OKxiaZ6rnHhLU]]></FromUserName>
+<CreateTime>1458737800</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/glcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 20:56:40 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvhsd0prK18OKxiaZ6rnHhLU]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458737800</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/glcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 20:57:26 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvu1Ll67oMVwD81ETQ0tvbYY]]></FromUserName>
+<CreateTime>1458737846</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=http://weibo.com/yingtianxia2015&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 20:57:26 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvu1Ll67oMVwD81ETQ0tvbYY]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458737846</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=http://weibo.com/yingtianxia2015&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 20:58:17 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvu1Ll67oMVwD81ETQ0tvbYY]]></FromUserName>
+<CreateTime>1458737897</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ovcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 20:58:17 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvu1Ll67oMVwD81ETQ0tvbYY]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458737897</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ovcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 20:58:57 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvk5w3TYULdjWaNPciozZQkQ]]></FromUserName>
+<CreateTime>1458737937</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ovcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 20:58:57 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvk5w3TYULdjWaNPciozZQkQ]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458737937</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ovcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 20:59:06 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvoNtCuN9OKkfi5xWa5Rv1IQ]]></FromUserName>
+<CreateTime>1458737946</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=17&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 20:59:06 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvoNtCuN9OKkfi5xWa5Rv1IQ]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458737946</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=17&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 20:59:19 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvlEpACsEw_g2F4bKMPMowH8]]></FromUserName>
+<CreateTime>1458737959</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 20:59:19 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvlEpACsEw_g2F4bKMPMowH8]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458737959</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 20:59:27 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvlEpACsEw_g2F4bKMPMowH8]]></FromUserName>
+<CreateTime>1458737967</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=17&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 20:59:27 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvlEpACsEw_g2F4bKMPMowH8]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458737967</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=17&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 21:00:05 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvq49bp5JgwrTQjEXRDjVrKw]]></FromUserName>
+<CreateTime>1458738005</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 21:00:05 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvq49bp5JgwrTQjEXRDjVrKw]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458738005</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 21:00:27 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvuGIN2mewFKZNPxEmfpQ_u8]]></FromUserName>
+<CreateTime>1458738027</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2016-03-23 21:00:27 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvuGIN2mewFKZNPxEmfpQ_u8]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458738027</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[取消关注]]></Content>
+</xml>
+2016-03-23 21:00:33 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvkFWs53aZoaWKqe0nO0Tp_Q]]></FromUserName>
+<CreateTime>1458738033</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 21:00:33 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvkFWs53aZoaWKqe0nO0Tp_Q]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458738033</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 21:00:48 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNviZ2AcBQbxcd-3yAbOWh_VU]]></FromUserName>
+<CreateTime>1458738048</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 21:00:48 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNviZ2AcBQbxcd-3yAbOWh_VU]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458738048</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 21:02:21 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvkFWs53aZoaWKqe0nO0Tp_Q]]></FromUserName>
+<CreateTime>1458738141</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=17&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 21:02:21 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvkFWs53aZoaWKqe0nO0Tp_Q]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458738141</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=17&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 21:03:02 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvmQy4I7sbN125-Be5pr6X8I]]></FromUserName>
+<CreateTime>1458738182</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 21:03:02 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvmQy4I7sbN125-Be5pr6X8I]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458738182</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 21:03:08 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvoNtCuN9OKkfi5xWa5Rv1IQ]]></FromUserName>
+<CreateTime>1458738188</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 21:03:08 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvoNtCuN9OKkfi5xWa5Rv1IQ]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458738188</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 21:03:28 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvgfE-zL-Xk19UMSml8Urkds]]></FromUserName>
+<CreateTime>1458738208</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ovcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 21:03:28 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvgfE-zL-Xk19UMSml8Urkds]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458738208</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ovcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 21:04:45 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvqszWulUSs6IVOYIU3UA0yw]]></FromUserName>
+<CreateTime>1458738285</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2016-03-23 21:04:45 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvqszWulUSs6IVOYIU3UA0yw]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458738285</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[欢迎关注营天下，全球营地项目优选平台！
+海量优质营地资源分享，最先进教育理念传播，全网最优惠信息尽在营天下！
+1. <a href='http://webchat.51camp.cn/cncamp.html'>点击了解国内主题营</a>
+2. <a href='http://webchat.51camp.cn/glcamp.html'>点击了解全球营地</a>
+3. <a href='http://webchat.51camp.cn/ovcamp.html'>点击了解境外游学</a>
+客服热线：400-878-3633
+客服邮箱：help@51camp.cn
+点击进入<a href='http://m.51camp.cn/'>营天下官网</a>
+ ]]></Content>
+</xml>
+2016-03-23 21:05:42 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvngu-AIE67MxknJ1NYmUSto]]></FromUserName>
+<CreateTime>1458738342</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2016-03-23 21:05:42 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvngu-AIE67MxknJ1NYmUSto]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458738342</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[取消关注]]></Content>
+</xml>
+2016-03-23 21:06:05 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvmQy4I7sbN125-Be5pr6X8I]]></FromUserName>
+<CreateTime>1458738365</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 21:06:05 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvmQy4I7sbN125-Be5pr6X8I]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458738365</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 21:07:27 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvmQy4I7sbN125-Be5pr6X8I]]></FromUserName>
+<CreateTime>1458738447</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 21:07:27 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvmQy4I7sbN125-Be5pr6X8I]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458738447</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 21:10:18 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvigZaFMsnibbBXrGvirBQ-8]]></FromUserName>
+<CreateTime>1458738618</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=http://weibo.com/yingtianxia2015&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 21:10:18 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvigZaFMsnibbBXrGvirBQ-8]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458738618</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=http://weibo.com/yingtianxia2015&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 21:16:47 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvqoFjEwp9kGsv3JunAPlrwg]]></FromUserName>
+<CreateTime>1458739007</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2016-03-23 21:16:47 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvqoFjEwp9kGsv3JunAPlrwg]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458739007</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[取消关注]]></Content>
+</xml>
+2016-03-23 21:21:27 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvp-foEQFwXsxTf8uiRVuOFw]]></FromUserName>
+<CreateTime>1458739287</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 21:21:27 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvp-foEQFwXsxTf8uiRVuOFw]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458739287</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 21:22:29 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvvIFbueHX94VymSy4-_h3ec]]></FromUserName>
+<CreateTime>1458739349</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=16&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 21:22:29 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvvIFbueHX94VymSy4-_h3ec]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458739349</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=16&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 21:22:46 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvvIFbueHX94VymSy4-_h3ec]]></FromUserName>
+<CreateTime>1458739366</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=17&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 21:22:46 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvvIFbueHX94VymSy4-_h3ec]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458739366</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=17&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 21:23:33 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvvIFbueHX94VymSy4-_h3ec]]></FromUserName>
+<CreateTime>1458739413</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 21:23:33 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvvIFbueHX94VymSy4-_h3ec]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458739413</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 21:27:10 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvqs8sUbtJ01g8-1W80a0qvk]]></FromUserName>
+<CreateTime>1458739630</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2016-03-23 21:27:10 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvqs8sUbtJ01g8-1W80a0qvk]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458739630</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[欢迎关注营天下，全球营地项目优选平台！
+海量优质营地资源分享，最先进教育理念传播，全网最优惠信息尽在营天下！
+1. <a href='http://webchat.51camp.cn/cncamp.html'>点击了解国内主题营</a>
+2. <a href='http://webchat.51camp.cn/glcamp.html'>点击了解全球营地</a>
+3. <a href='http://webchat.51camp.cn/ovcamp.html'>点击了解境外游学</a>
+客服热线：400-878-3633
+客服邮箱：help@51camp.cn
+点击进入<a href='http://m.51camp.cn/'>营天下官网</a>
+ ]]></Content>
+</xml>
+2016-03-23 21:29:07 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvr0DFvK8d6r_2wVJZFh67mI]]></FromUserName>
+<CreateTime>1458739747</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 21:29:07 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvr0DFvK8d6r_2wVJZFh67mI]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458739747</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 21:33:53 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvp6yHyTDNY1x9dScTDHCQ4I]]></FromUserName>
+<CreateTime>1458740033</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 21:33:53 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvp6yHyTDNY1x9dScTDHCQ4I]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458740033</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 21:35:52 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvnPc8iJ03LtoPmq93w2ZS-4]]></FromUserName>
+<CreateTime>1458740152</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2016-03-23 21:35:52 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvnPc8iJ03LtoPmq93w2ZS-4]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458740152</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[欢迎关注营天下，全球营地项目优选平台！
+海量优质营地资源分享，最先进教育理念传播，全网最优惠信息尽在营天下！
+1. <a href='http://webchat.51camp.cn/cncamp.html'>点击了解国内主题营</a>
+2. <a href='http://webchat.51camp.cn/glcamp.html'>点击了解全球营地</a>
+3. <a href='http://webchat.51camp.cn/ovcamp.html'>点击了解境外游学</a>
+客服热线：400-878-3633
+客服邮箱：help@51camp.cn
+点击进入<a href='http://m.51camp.cn/'>营天下官网</a>
+ ]]></Content>
+</xml>
+2016-03-23 21:37:46 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvr0DFvK8d6r_2wVJZFh67mI]]></FromUserName>
+<CreateTime>1458740266</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/glcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 21:37:46 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvr0DFvK8d6r_2wVJZFh67mI]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458740266</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/glcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 21:41:01 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvp6yHyTDNY1x9dScTDHCQ4I]]></FromUserName>
+<CreateTime>1458740461</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 21:41:01 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvp6yHyTDNY1x9dScTDHCQ4I]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458740461</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 21:49:07 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvp6yHyTDNY1x9dScTDHCQ4I]]></FromUserName>
+<CreateTime>1458740947</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 21:49:07 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvp6yHyTDNY1x9dScTDHCQ4I]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458740947</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 21:49:16 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvp6yHyTDNY1x9dScTDHCQ4I]]></FromUserName>
+<CreateTime>1458740956</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=17&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 21:49:16 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvp6yHyTDNY1x9dScTDHCQ4I]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458740956</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=17&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 21:58:27 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvt1qKlL_DPOsGy4lGQEZw54]]></FromUserName>
+<CreateTime>1458741507</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=17&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 21:58:27 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvt1qKlL_DPOsGy4lGQEZw54]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458741507</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=17&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 21:58:32 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvt1qKlL_DPOsGy4lGQEZw54]]></FromUserName>
+<CreateTime>1458741512</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 21:58:32 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvt1qKlL_DPOsGy4lGQEZw54]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458741512</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 22:04:36 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvgt5k1w_Fb3FASMumKKITw4]]></FromUserName>
+<CreateTime>1458741876</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=16&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 22:04:36 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvgt5k1w_Fb3FASMumKKITw4]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458741876</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=16&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 22:19:55 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvufArm3vrmqbk8SWdm3Eo00]]></FromUserName>
+<CreateTime>1458742795</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=17&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 22:19:55 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvufArm3vrmqbk8SWdm3Eo00]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458742795</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=17&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 22:25:32 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvueZfghIGsSmDYk6tGSek8I]]></FromUserName>
+<CreateTime>1458743132</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 22:25:32 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvueZfghIGsSmDYk6tGSek8I]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458743132</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 22:26:16 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvueZfghIGsSmDYk6tGSek8I]]></FromUserName>
+<CreateTime>1458743176</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 22:26:16 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvueZfghIGsSmDYk6tGSek8I]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458743176</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 22:26:20 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvueZfghIGsSmDYk6tGSek8I]]></FromUserName>
+<CreateTime>1458743180</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=17&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 22:26:20 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvueZfghIGsSmDYk6tGSek8I]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458743180</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=17&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 22:27:43 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvpdVcxEbf1TievUQ7Xiv7VE]]></FromUserName>
+<CreateTime>1458743263</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ovcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 22:27:43 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvpdVcxEbf1TievUQ7Xiv7VE]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458743263</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ovcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 22:27:47 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvpdVcxEbf1TievUQ7Xiv7VE]]></FromUserName>
+<CreateTime>1458743267</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/glcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 22:27:47 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvpdVcxEbf1TievUQ7Xiv7VE]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458743267</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/glcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 22:31:05 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvpdVcxEbf1TievUQ7Xiv7VE]]></FromUserName>
+<CreateTime>1458743465</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 22:31:05 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvpdVcxEbf1TievUQ7Xiv7VE]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458743465</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 22:42:41 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvrkcSdLrgfYfPMsJSDXM22c]]></FromUserName>
+<CreateTime>1458744161</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 22:42:41 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvrkcSdLrgfYfPMsJSDXM22c]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458744161</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 22:44:02 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvjz4kf77nGPP9qLvFwSoeIc]]></FromUserName>
+<CreateTime>1458744242</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 22:44:02 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvjz4kf77nGPP9qLvFwSoeIc]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458744242</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 22:46:06 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvmTquqR_Sm9fNCPaEN0y37I]]></FromUserName>
+<CreateTime>1458744366</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 22:46:06 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvmTquqR_Sm9fNCPaEN0y37I]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458744366</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 22:46:26 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvrkcSdLrgfYfPMsJSDXM22c]]></FromUserName>
+<CreateTime>1458744386</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 22:46:26 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvrkcSdLrgfYfPMsJSDXM22c]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458744386</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 22:46:43 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvpdVcxEbf1TievUQ7Xiv7VE]]></FromUserName>
+<CreateTime>1458744403</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/glcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 22:46:43 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvpdVcxEbf1TievUQ7Xiv7VE]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458744403</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/glcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 22:52:37 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvr3VRBj7FVJyGIHfoo3VvMM]]></FromUserName>
+<CreateTime>1458744757</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 22:52:37 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvr3VRBj7FVJyGIHfoo3VvMM]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458744757</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 22:56:09 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvvhJFK51DTzjp_fDDX7nq8Y]]></FromUserName>
+<CreateTime>1458744969</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=15&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 22:56:09 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvvhJFK51DTzjp_fDDX7nq8Y]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458744969</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=15&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 22:57:52 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvvAl8BWXTWhMWy6UEVSycpk]]></FromUserName>
+<CreateTime>1458745072</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 22:57:52 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvvAl8BWXTWhMWy6UEVSycpk]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458745072</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 22:59:21 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvtIyDmRwpDtx_8IA-Ga_RlY]]></FromUserName>
+<CreateTime>1458745161</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2016-03-23 22:59:21 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvtIyDmRwpDtx_8IA-Ga_RlY]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458745161</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[欢迎关注营天下，全球营地项目优选平台！
+海量优质营地资源分享，最先进教育理念传播，全网最优惠信息尽在营天下！
+1. <a href='http://webchat.51camp.cn/cncamp.html'>点击了解国内主题营</a>
+2. <a href='http://webchat.51camp.cn/glcamp.html'>点击了解全球营地</a>
+3. <a href='http://webchat.51camp.cn/ovcamp.html'>点击了解境外游学</a>
+客服热线：400-878-3633
+客服邮箱：help@51camp.cn
+点击进入<a href='http://m.51camp.cn/'>营天下官网</a>
+ ]]></Content>
+</xml>
+2016-03-23 22:59:32 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvtIyDmRwpDtx_8IA-Ga_RlY]]></FromUserName>
+<CreateTime>1458745172</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 22:59:32 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvtIyDmRwpDtx_8IA-Ga_RlY]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458745172</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 22:59:41 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvtIyDmRwpDtx_8IA-Ga_RlY]]></FromUserName>
+<CreateTime>1458745181</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 22:59:41 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvtIyDmRwpDtx_8IA-Ga_RlY]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458745181</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 22:59:44 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvtIyDmRwpDtx_8IA-Ga_RlY]]></FromUserName>
+<CreateTime>1458745184</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 22:59:44 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvtIyDmRwpDtx_8IA-Ga_RlY]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458745184</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 22:59:50 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvtIyDmRwpDtx_8IA-Ga_RlY]]></FromUserName>
+<CreateTime>1458745190</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/glcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 22:59:50 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvtIyDmRwpDtx_8IA-Ga_RlY]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458745190</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/glcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 23:02:31 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvvhJFK51DTzjp_fDDX7nq8Y]]></FromUserName>
+<CreateTime>1458745351</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=15&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 23:02:31 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvvhJFK51DTzjp_fDDX7nq8Y]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458745351</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=15&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 23:05:13 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvvhJFK51DTzjp_fDDX7nq8Y]]></FromUserName>
+<CreateTime>1458745513</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=17&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 23:05:13 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvvhJFK51DTzjp_fDDX7nq8Y]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458745513</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=17&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 23:05:39 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvvhJFK51DTzjp_fDDX7nq8Y]]></FromUserName>
+<CreateTime>1458745539</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 23:05:39 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvvhJFK51DTzjp_fDDX7nq8Y]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458745539</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 23:08:10 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvmxODMuJcTIKDuk1Bj812O4]]></FromUserName>
+<CreateTime>1458745690</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2016-03-23 23:08:10 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvmxODMuJcTIKDuk1Bj812O4]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458745690</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[欢迎关注营天下，全球营地项目优选平台！
+海量优质营地资源分享，最先进教育理念传播，全网最优惠信息尽在营天下！
+1. <a href='http://webchat.51camp.cn/cncamp.html'>点击了解国内主题营</a>
+2. <a href='http://webchat.51camp.cn/glcamp.html'>点击了解全球营地</a>
+3. <a href='http://webchat.51camp.cn/ovcamp.html'>点击了解境外游学</a>
+客服热线：400-878-3633
+客服邮箱：help@51camp.cn
+点击进入<a href='http://m.51camp.cn/'>营天下官网</a>
+ ]]></Content>
+</xml>
+2016-03-23 23:16:26 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvktu-118MdMuOmW8HOxWx7U]]></FromUserName>
+<CreateTime>1458746186</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/glcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 23:16:26 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvktu-118MdMuOmW8HOxWx7U]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458746186</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/glcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 23:21:19 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvikQa7NOK0naYsUMKoHOxdk]]></FromUserName>
+<CreateTime>1458746479</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=16&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 23:21:19 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvikQa7NOK0naYsUMKoHOxdk]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458746479</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=16&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 23:21:53 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvikQa7NOK0naYsUMKoHOxdk]]></FromUserName>
+<CreateTime>1458746513</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/order.html?state=2&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 23:21:53 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvikQa7NOK0naYsUMKoHOxdk]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458746513</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/order.html?state=2&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 23:27:14 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvvAl8BWXTWhMWy6UEVSycpk]]></FromUserName>
+<CreateTime>1458746834</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 23:27:14 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvvAl8BWXTWhMWy6UEVSycpk]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458746834</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 23:49:29 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvtIyDmRwpDtx_8IA-Ga_RlY]]></FromUserName>
+<CreateTime>1458748169</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 23:49:29 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvtIyDmRwpDtx_8IA-Ga_RlY]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458748169</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 23:52:50 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvvTL0O45B8rB0r_xm_Dqn1Y]]></FromUserName>
+<CreateTime>1458748369</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ovcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 23:52:50 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvvTL0O45B8rB0r_xm_Dqn1Y]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458748370</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ovcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 23:53:00 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvtIyDmRwpDtx_8IA-Ga_RlY]]></FromUserName>
+<CreateTime>1458748380</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 23:53:00 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvtIyDmRwpDtx_8IA-Ga_RlY]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458748380</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 23:58:19 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvtIyDmRwpDtx_8IA-Ga_RlY]]></FromUserName>
+<CreateTime>1458748699</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 23:58:19 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvtIyDmRwpDtx_8IA-Ga_RlY]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458748699</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-23 23:59:51 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvtIyDmRwpDtx_8IA-Ga_RlY]]></FromUserName>
+<CreateTime>1458748791</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=15&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-23 23:59:51 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvtIyDmRwpDtx_8IA-Ga_RlY]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458748791</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=15&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-24 00:00:27 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvtIyDmRwpDtx_8IA-Ga_RlY]]></FromUserName>
+<CreateTime>1458748827</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ovcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-24 00:00:27 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvtIyDmRwpDtx_8IA-Ga_RlY]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458748827</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ovcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-24 00:00:57 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvtIyDmRwpDtx_8IA-Ga_RlY]]></FromUserName>
+<CreateTime>1458748857</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-24 00:00:57 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvtIyDmRwpDtx_8IA-Ga_RlY]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458748857</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-24 00:02:43 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvqx4X6KFia23pjMqq_ElbvM]]></FromUserName>
+<CreateTime>1458748963</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2016-03-24 00:02:43 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvqx4X6KFia23pjMqq_ElbvM]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458748963</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[欢迎关注营天下，全球营地项目优选平台！
+海量优质营地资源分享，最先进教育理念传播，全网最优惠信息尽在营天下！
+1. <a href='http://webchat.51camp.cn/cncamp.html'>点击了解国内主题营</a>
+2. <a href='http://webchat.51camp.cn/glcamp.html'>点击了解全球营地</a>
+3. <a href='http://webchat.51camp.cn/ovcamp.html'>点击了解境外游学</a>
+客服热线：400-878-3633
+客服邮箱：help@51camp.cn
+点击进入<a href='http://m.51camp.cn/'>营天下官网</a>
+ ]]></Content>
+</xml>
+2016-03-24 05:38:52 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvsAWWvGr5YN86xiDonYZ0IE]]></FromUserName>
+<CreateTime>1458769132</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-24 05:38:52 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvsAWWvGr5YN86xiDonYZ0IE]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458769132</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-24 06:58:14 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvhCyC0G-U-1ScEzplkRv-Yc]]></FromUserName>
+<CreateTime>1458773894</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=17&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-24 06:58:14 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvhCyC0G-U-1ScEzplkRv-Yc]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458773894</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=17&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-24 06:58:52 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvhCyC0G-U-1ScEzplkRv-Yc]]></FromUserName>
+<CreateTime>1458773932</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-24 06:58:52 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvhCyC0G-U-1ScEzplkRv-Yc]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458773932</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-24 07:16:28 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvkAGCnY_GtoHU4KBn0YY_gY]]></FromUserName>
+<CreateTime>1458774988</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2016-03-24 07:16:28 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvkAGCnY_GtoHU4KBn0YY_gY]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458774988</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[取消关注]]></Content>
+</xml>
+2016-03-24 07:20:26 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvjqErnaks2njkI-OncaooWk]]></FromUserName>
+<CreateTime>1458775226</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=17&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-24 07:20:26 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvjqErnaks2njkI-OncaooWk]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458775226</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=17&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-24 07:41:45 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvryXwiBfv3asQX4r3eWR2b4]]></FromUserName>
+<CreateTime>1458776505</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ovcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-24 07:41:45 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvryXwiBfv3asQX4r3eWR2b4]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458776505</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ovcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-24 07:41:48 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvryXwiBfv3asQX4r3eWR2b4]]></FromUserName>
+<CreateTime>1458776508</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/glcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-24 07:41:48 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvryXwiBfv3asQX4r3eWR2b4]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458776508</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/glcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-24 08:08:34 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvsAWWvGr5YN86xiDonYZ0IE]]></FromUserName>
+<CreateTime>1458778114</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=16&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-24 08:08:34 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvsAWWvGr5YN86xiDonYZ0IE]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458778114</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=16&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-24 08:53:15 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvl6NW5N6NXWp-EtCDSie9Q4]]></FromUserName>
+<CreateTime>1458780795</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/glcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-24 08:53:15 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvl6NW5N6NXWp-EtCDSie9Q4]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458780795</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/glcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-24 09:15:26 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvrYGWs32BHc5_uTENjB7Pgk]]></FromUserName>
+<CreateTime>1458782126</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-24 09:15:26 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvrYGWs32BHc5_uTENjB7Pgk]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458782126</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-24 09:19:03 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvjoarI6sf6cZLlnGTwiMyP4]]></FromUserName>
+<CreateTime>1458782343</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2016-03-24 09:19:03 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvjoarI6sf6cZLlnGTwiMyP4]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458782343</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[欢迎关注营天下，全球营地项目优选平台！
+海量优质营地资源分享，最先进教育理念传播，全网最优惠信息尽在营天下！
+1. <a href='http://webchat.51camp.cn/cncamp.html'>点击了解国内主题营</a>
+2. <a href='http://webchat.51camp.cn/glcamp.html'>点击了解全球营地</a>
+3. <a href='http://webchat.51camp.cn/ovcamp.html'>点击了解境外游学</a>
+客服热线：400-878-3633
+客服邮箱：help@51camp.cn
+点击进入<a href='http://m.51camp.cn/'>营天下官网</a>
+ ]]></Content>
+</xml>
+2016-03-24 09:20:23 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvrfsibCx24MoEDb5HhJV1pQ]]></FromUserName>
+<CreateTime>1458782423</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2016-03-24 09:20:23 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvrfsibCx24MoEDb5HhJV1pQ]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458782423</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[欢迎关注营天下，全球营地项目优选平台！
+海量优质营地资源分享，最先进教育理念传播，全网最优惠信息尽在营天下！
+1. <a href='http://webchat.51camp.cn/cncamp.html'>点击了解国内主题营</a>
+2. <a href='http://webchat.51camp.cn/glcamp.html'>点击了解全球营地</a>
+3. <a href='http://webchat.51camp.cn/ovcamp.html'>点击了解境外游学</a>
+客服热线：400-878-3633
+客服邮箱：help@51camp.cn
+点击进入<a href='http://m.51camp.cn/'>营天下官网</a>
+ ]]></Content>
+</xml>
+2016-03-24 09:20:36 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvrfsibCx24MoEDb5HhJV1pQ]]></FromUserName>
+<CreateTime>1458782436</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ovcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-24 09:20:36 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvrfsibCx24MoEDb5HhJV1pQ]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458782436</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ovcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-24 09:23:05 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvrfsibCx24MoEDb5HhJV1pQ]]></FromUserName>
+<CreateTime>1458782585</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/glcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-24 09:23:05 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvrfsibCx24MoEDb5HhJV1pQ]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458782585</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/glcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-24 09:23:34 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvrfsibCx24MoEDb5HhJV1pQ]]></FromUserName>
+<CreateTime>1458782614</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-24 09:23:34 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvrfsibCx24MoEDb5HhJV1pQ]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458782614</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-24 09:25:41 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvnSIBaKO2ihd6qF5qQELERo]]></FromUserName>
+<CreateTime>1458782741</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-24 09:25:41 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvnSIBaKO2ihd6qF5qQELERo]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458782741</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-24 09:29:38 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNviq578zYwtAvFVHSDPVUr2E]]></FromUserName>
+<CreateTime>1458782978</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=17&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-24 09:29:38 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNviq578zYwtAvFVHSDPVUr2E]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458782978</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=17&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-24 09:30:09 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvlr2EyA4yABvWWpgRNtJe8I]]></FromUserName>
+<CreateTime>1458783009</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-24 09:30:09 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvlr2EyA4yABvWWpgRNtJe8I]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458783009</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-24 09:30:44 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvmWG9RhFbMIOaUluTONbsq4]]></FromUserName>
+<CreateTime>1458783044</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ovcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-24 09:30:44 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvmWG9RhFbMIOaUluTONbsq4]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458783044</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ovcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-24 09:31:07 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvlr2EyA4yABvWWpgRNtJe8I]]></FromUserName>
+<CreateTime>1458783067</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-24 09:31:07 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvlr2EyA4yABvWWpgRNtJe8I]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458783067</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-24 09:45:15 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvu6jQKqNuV9OuiSH8LM-HVQ]]></FromUserName>
+<CreateTime>1458783915</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=16&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-24 09:45:15 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvu6jQKqNuV9OuiSH8LM-HVQ]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458783915</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=16&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-24 09:46:40 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvqn8d4xObBY8LnSEk3nm7CU]]></FromUserName>
+<CreateTime>1458784000</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2016-03-24 09:46:40 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvqn8d4xObBY8LnSEk3nm7CU]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458784000</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[欢迎关注营天下，全球营地项目优选平台！
+海量优质营地资源分享，最先进教育理念传播，全网最优惠信息尽在营天下！
+1. <a href='http://webchat.51camp.cn/cncamp.html'>点击了解国内主题营</a>
+2. <a href='http://webchat.51camp.cn/glcamp.html'>点击了解全球营地</a>
+3. <a href='http://webchat.51camp.cn/ovcamp.html'>点击了解境外游学</a>
+客服热线：400-878-3633
+客服邮箱：help@51camp.cn
+点击进入<a href='http://m.51camp.cn/'>营天下官网</a>
+ ]]></Content>
+</xml>
+2016-03-24 09:47:22 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvqn8d4xObBY8LnSEk3nm7CU]]></FromUserName>
+<CreateTime>1458784042</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=16&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-24 09:47:22 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvqn8d4xObBY8LnSEk3nm7CU]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458784042</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=16&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-24 09:47:38 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvrfsibCx24MoEDb5HhJV1pQ]]></FromUserName>
+<CreateTime>1458784058</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ovcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-24 09:47:38 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvrfsibCx24MoEDb5HhJV1pQ]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458784058</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ovcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-24 09:47:54 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvrfsibCx24MoEDb5HhJV1pQ]]></FromUserName>
+<CreateTime>1458784074</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-24 09:47:54 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvrfsibCx24MoEDb5HhJV1pQ]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458784074</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-24 09:48:17 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvrfsibCx24MoEDb5HhJV1pQ]]></FromUserName>
+<CreateTime>1458784097</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ovcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-24 09:48:17 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvrfsibCx24MoEDb5HhJV1pQ]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458784097</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ovcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-24 09:48:28 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvrfsibCx24MoEDb5HhJV1pQ]]></FromUserName>
+<CreateTime>1458784108</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-24 09:48:28 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvrfsibCx24MoEDb5HhJV1pQ]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458784108</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-24 09:48:44 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvrfsibCx24MoEDb5HhJV1pQ]]></FromUserName>
+<CreateTime>1458784124</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=15&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-24 09:48:44 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvrfsibCx24MoEDb5HhJV1pQ]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458784124</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=15&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-24 09:48:50 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvrfsibCx24MoEDb5HhJV1pQ]]></FromUserName>
+<CreateTime>1458784130</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-24 09:48:50 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvrfsibCx24MoEDb5HhJV1pQ]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458784130</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-24 09:50:50 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvkLnZwa2GjprhIfn_YV9n0o]]></FromUserName>
+<CreateTime>1458784250</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2016-03-24 09:50:50 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvkLnZwa2GjprhIfn_YV9n0o]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458784250</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[欢迎关注营天下，全球营地项目优选平台！
+海量优质营地资源分享，最先进教育理念传播，全网最优惠信息尽在营天下！
+1. <a href='http://webchat.51camp.cn/cncamp.html'>点击了解国内主题营</a>
+2. <a href='http://webchat.51camp.cn/glcamp.html'>点击了解全球营地</a>
+3. <a href='http://webchat.51camp.cn/ovcamp.html'>点击了解境外游学</a>
+客服热线：400-878-3633
+客服邮箱：help@51camp.cn
+点击进入<a href='http://m.51camp.cn/'>营天下官网</a>
+ ]]></Content>
+</xml>
+2016-03-24 10:02:28 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvlr2EyA4yABvWWpgRNtJe8I]]></FromUserName>
+<CreateTime>1458784948</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-24 10:02:28 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvlr2EyA4yABvWWpgRNtJe8I]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458784948</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-24 10:19:39 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNviq578zYwtAvFVHSDPVUr2E]]></FromUserName>
+<CreateTime>1458785979</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-24 10:19:39 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNviq578zYwtAvFVHSDPVUr2E]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458785979</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-24 10:33:37 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvjeC7S0recFw3qfcdKoPXxk]]></FromUserName>
+<CreateTime>1458786817</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ovcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-24 10:33:37 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvjeC7S0recFw3qfcdKoPXxk]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458786817</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ovcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-24 10:39:22 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvjeC7S0recFw3qfcdKoPXxk]]></FromUserName>
+<CreateTime>1458787162</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/glcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-24 10:39:22 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvjeC7S0recFw3qfcdKoPXxk]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458787162</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/glcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-24 10:39:31 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvjeC7S0recFw3qfcdKoPXxk]]></FromUserName>
+<CreateTime>1458787171</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ovcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-24 10:39:31 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvjeC7S0recFw3qfcdKoPXxk]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458787171</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ovcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-24 10:42:36 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvkZV_zmuPrTJd5KF3lZ96mw]]></FromUserName>
+<CreateTime>1458787355</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-24 10:42:36 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvkZV_zmuPrTJd5KF3lZ96mw]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458787356</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-24 10:47:53 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNviq578zYwtAvFVHSDPVUr2E]]></FromUserName>
+<CreateTime>1458787673</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-24 10:47:53 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNviq578zYwtAvFVHSDPVUr2E]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458787673</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-24 10:59:53 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvmTquqR_Sm9fNCPaEN0y37I]]></FromUserName>
+<CreateTime>1458788393</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-24 10:59:53 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvmTquqR_Sm9fNCPaEN0y37I]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458788393</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-24 11:18:02 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvg3lcrob-_cFAqyJ0gHdjyE]]></FromUserName>
+<CreateTime>1458789482</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2016-03-24 11:18:02 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvg3lcrob-_cFAqyJ0gHdjyE]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458789482</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[欢迎关注营天下，全球营地项目优选平台！
+海量优质营地资源分享，最先进教育理念传播，全网最优惠信息尽在营天下！
+1. <a href='http://webchat.51camp.cn/cncamp.html'>点击了解国内主题营</a>
+2. <a href='http://webchat.51camp.cn/glcamp.html'>点击了解全球营地</a>
+3. <a href='http://webchat.51camp.cn/ovcamp.html'>点击了解境外游学</a>
+客服热线：400-878-3633
+客服邮箱：help@51camp.cn
+点击进入<a href='http://m.51camp.cn/'>营天下官网</a>
+ ]]></Content>
+</xml>
+2016-03-24 11:39:36 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNviq578zYwtAvFVHSDPVUr2E]]></FromUserName>
+<CreateTime>1458790775</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-24 11:39:36 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNviq578zYwtAvFVHSDPVUr2E]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458790776</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-24 11:54:01 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvmTquqR_Sm9fNCPaEN0y37I]]></FromUserName>
+<CreateTime>1458791641</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-24 11:54:01 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvmTquqR_Sm9fNCPaEN0y37I]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458791641</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-24 12:02:23 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvhIaLa4JBFIOT04JmrsyDuk]]></FromUserName>
+<CreateTime>1458792143</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-24 12:02:23 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvhIaLa4JBFIOT04JmrsyDuk]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458792143</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-24 12:10:59 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvq7omwIhJ3w4bJH388AXsuw]]></FromUserName>
+<CreateTime>1458792659</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=15&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-24 12:10:59 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvq7omwIhJ3w4bJH388AXsuw]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458792659</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=15&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-24 12:19:38 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvmTquqR_Sm9fNCPaEN0y37I]]></FromUserName>
+<CreateTime>1458793178</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-24 12:19:38 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvmTquqR_Sm9fNCPaEN0y37I]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458793178</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-24 12:20:52 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvkfBHDSUOgNT-iZtaeikh-0]]></FromUserName>
+<CreateTime>1458793252</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=15&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-24 12:20:52 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvkfBHDSUOgNT-iZtaeikh-0]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458793252</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=15&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-24 12:21:13 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvkfBHDSUOgNT-iZtaeikh-0]]></FromUserName>
+<CreateTime>1458793273</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=16&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-24 12:21:13 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvkfBHDSUOgNT-iZtaeikh-0]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458793273</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=16&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-24 12:21:49 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvkfBHDSUOgNT-iZtaeikh-0]]></FromUserName>
+<CreateTime>1458793309</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=16&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-24 12:21:49 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvkfBHDSUOgNT-iZtaeikh-0]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458793309</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=16&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-24 12:23:18 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvkfBHDSUOgNT-iZtaeikh-0]]></FromUserName>
+<CreateTime>1458793398</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=15&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-24 12:23:18 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvkfBHDSUOgNT-iZtaeikh-0]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458793398</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=15&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-24 12:24:43 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvkfBHDSUOgNT-iZtaeikh-0]]></FromUserName>
+<CreateTime>1458793483</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=15&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-24 12:24:43 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvkfBHDSUOgNT-iZtaeikh-0]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458793483</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=15&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-24 12:25:04 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvkfBHDSUOgNT-iZtaeikh-0]]></FromUserName>
+<CreateTime>1458793504</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-24 12:25:04 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvkfBHDSUOgNT-iZtaeikh-0]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458793504</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-24 12:54:23 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvjBX1tYXm6UXbLj6amYumHo]]></FromUserName>
+<CreateTime>1458795263</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/glcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-24 12:54:23 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvjBX1tYXm6UXbLj6amYumHo]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458795263</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/glcamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-24 13:12:43 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvuE1h16o4v8JOXeHGIYmVfQ]]></FromUserName>
+<CreateTime>1458796363</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=15&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-24 13:12:43 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvuE1h16o4v8JOXeHGIYmVfQ]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458796363</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=15&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-24 13:14:28 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvuE1h16o4v8JOXeHGIYmVfQ]]></FromUserName>
+<CreateTime>1458796468</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-24 13:14:28 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvuE1h16o4v8JOXeHGIYmVfQ]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458796468</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-24 13:21:05 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvhIaLa4JBFIOT04JmrsyDuk]]></FromUserName>
+<CreateTime>1458796865</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-24 13:21:05 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvhIaLa4JBFIOT04JmrsyDuk]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458796865</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-24 13:22:11 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvkYyrcUIzw_APAxjAKE8ilM]]></FromUserName>
+<CreateTime>1458796931</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2016-03-24 13:22:11 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvkYyrcUIzw_APAxjAKE8ilM]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458796931</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[欢迎关注营天下，全球营地项目优选平台！
+海量优质营地资源分享，最先进教育理念传播，全网最优惠信息尽在营天下！
+1. <a href='http://webchat.51camp.cn/cncamp.html'>点击了解国内主题营</a>
+2. <a href='http://webchat.51camp.cn/glcamp.html'>点击了解全球营地</a>
+3. <a href='http://webchat.51camp.cn/ovcamp.html'>点击了解境外游学</a>
+客服热线：400-878-3633
+客服邮箱：help@51camp.cn
+点击进入<a href='http://m.51camp.cn/'>营天下官网</a>
+ ]]></Content>
+</xml>
+2016-03-24 13:23:06 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvuE1h16o4v8JOXeHGIYmVfQ]]></FromUserName>
+<CreateTime>1458796986</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-24 13:23:06 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvuE1h16o4v8JOXeHGIYmVfQ]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458796986</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/cncamp.html&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-24 13:40:04 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvv7jGU_En5TeKpiphdxvC8Y]]></FromUserName>
+<CreateTime>1458798004</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[WifiConnected]]></Event><ConnectTime>1458798004</ConnectTime><ExpireTime>0</ExpireTime><VendorId><![CDATA[3001224419]]></VendorId><ShopId><![CDATA[8045656]]></ShopId><DeviceNo><![CDATA[f0:b4:29:1a:bb:14]]></DeviceNo></xml>
+2016-03-24 13:40:04 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvv7jGU_En5TeKpiphdxvC8Y]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458798004</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[receive a new event: WifiConnected]]></Content>
+</xml>
+2016-03-24 13:46:14 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvpdVcxEbf1TievUQ7Xiv7VE]]></FromUserName>
+<CreateTime>1458798374</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-24 13:46:14 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvpdVcxEbf1TievUQ7Xiv7VE]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458798374</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>
+2016-03-24 13:51:21 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvqWuVB90MMgJFqdI_afpZf8]]></FromUserName>
+<CreateTime>1458798681</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2016-03-24 13:51:21 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvqWuVB90MMgJFqdI_afpZf8]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458798681</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[欢迎关注营天下，全球营地项目优选平台！
+海量优质营地资源分享，最先进教育理念传播，全网最优惠信息尽在营天下！
+1. <a href='http://webchat.51camp.cn/cncamp.html'>点击了解国内主题营</a>
+2. <a href='http://webchat.51camp.cn/glcamp.html'>点击了解全球营地</a>
+3. <a href='http://webchat.51camp.cn/ovcamp.html'>点击了解境外游学</a>
+客服热线：400-878-3633
+客服邮箱：help@51camp.cn
+点击进入<a href='http://m.51camp.cn/'>营天下官网</a>
+ ]]></Content>
+</xml>
+2016-03-24 14:22:50 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvghDjH25hLCQwB7DqARJP4I]]></FromUserName>
+<CreateTime>1458800570</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2016-03-24 14:22:50 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvghDjH25hLCQwB7DqARJP4I]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458800570</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[欢迎关注营天下，全球营地项目优选平台！
+海量优质营地资源分享，最先进教育理念传播，全网最优惠信息尽在营天下！
+1. <a href='http://webchat.51camp.cn/cncamp.html'>点击了解国内主题营</a>
+2. <a href='http://webchat.51camp.cn/glcamp.html'>点击了解全球营地</a>
+3. <a href='http://webchat.51camp.cn/ovcamp.html'>点击了解境外游学</a>
+客服热线：400-878-3633
+客服邮箱：help@51camp.cn
+点击进入<a href='http://m.51camp.cn/'>营天下官网</a>
+ ]]></Content>
+</xml>
+2016-03-24 14:32:59 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvqn8d4xObBY8LnSEk3nm7CU]]></FromUserName>
+<CreateTime>1458801179</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[1]]></Content>
+<MsgId>6265503355584248562</MsgId>
+</xml>
+2016-03-24 14:32:59 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvqn8d4xObBY8LnSEk3nm7CU]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458801179</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[欢迎关注营天下，全球营地项目优选平台！
+海量优质营地资源分享，最先进教育理念传播，全网最优惠信息尽在营天下！
+1. <a href='http://webchat.51camp.cn/cncamp.html'>点击了解国内主题营</a>
+2. <a href='http://webchat.51camp.cn/glcamp.html'>点击了解全球营地</a>
+3. <a href='http://webchat.51camp.cn/ovcamp.html'>点击了解境外游学</a>
+客服热线：400-878-3633
+客服邮箱：help@51camp.cn
+点击进入<a href='http://m.51camp.cn/'>营天下官网</a>
+ ]]></Content>
+</xml>
+2016-03-24 14:42:29 R 
+<xml><ToUserName><![CDATA[gh_99de75fc975c]]></ToUserName>
+<FromUserName><![CDATA[ofbXNvmTquqR_Sm9fNCPaEN0y37I]]></FromUserName>
+<CreateTime>1458801749</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></EventKey>
+<MenuId>409069057</MenuId>
+</xml>
+2016-03-24 14:42:29 T 
+<xml>
+    <ToUserName><![CDATA[ofbXNvmTquqR_Sm9fNCPaEN0y37I]]></ToUserName>
+    <FromUserName><![CDATA[gh_99de75fc975c]]></FromUserName>
+    <CreateTime>1458801749</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa1e547d1d4e27821&redirect_uri=http://webchat.51camp.cn/do.html?urlback=/ad/index.html?id=18&response_type=code&scope=snsapi_base&state=yeecolor&connect_redirect=1#wechat_redirect]]></Content>
+</xml>

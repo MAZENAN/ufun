@@ -1,10 +1,10 @@
 <?php
-$qiniu_root = 'https://img.part.cn/ufun';
+$qiniu_root = 'https://img.part.cn';
 return array(
     'imageCompressEnable' => true, /* 是否压缩图片,默认是true */
     'imageCompressBorder' => 1600, /* 图片压缩最长边限制 */
     /* 上传保存路径,可以自定义保存路径和文件名格式 */
-    'imagePathFormat' => '/upfiles/images/{yyyy}{mm}/{dd}{time}{rand:4}',
+    'imagePathFormat' => '/ufun/upfiles/images/{yyyy}{mm}/{dd}{time}{rand:4}',
     /* {filename} 会替换成原文件名,配置这项需要注意中文乱码问题 */
     /* {rand:6} 会替换成随机数,后面的数字是随机数的位数 */
     /* {time} 会替换成时间戳 */
@@ -15,7 +15,7 @@ return array(
     /* {hh} 会替换成两位小时 */
     /* {ii} 会替换成两位分钟 */
     /* {ss} 会替换成两位秒 */
-    'filePathFormat' => "/upfiles/files/{yyyy}{mm}/{dd}{time}{rand:4}",
+    'filePathFormat' => "/ufun/upfiles/files/{yyyy}{mm}/{dd}{time}{rand:4}",
 //    'uploadMaxSize' => 2097152,
     'uploadMaxSize' => 2097152000000,
     'uploadAllowFiles' => array(".png", ".jpg", ".jpeg", ".gif",

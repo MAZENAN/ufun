@@ -1,5 +1,5 @@
 <?php
-$qiniu_root = 'https://img.part.cn/';
+$qiniu_root = 'https://img.part.cn/ufun/';
 return array(
     'imageCompressEnable' => true, /* 是否压缩图片,默认是true */
     'imageCompressBorder' => 1600, /* 图片压缩最长边限制 */

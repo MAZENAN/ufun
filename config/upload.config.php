@@ -1,5 +1,5 @@
 <?php
-$qiniu_root = 'https://img.part.cn';
+$qiniu_root = 'https://img.part.cn/';
 return array(
     'imageCompressEnable' => true, /* 是否压缩图片,默认是true */
     'imageCompressBorder' => 1600, /* 图片压缩最长边限制 */
@@ -15,7 +15,7 @@ return array(
     /* {hh} 会替换成两位小时 */
     /* {ii} 会替换成两位分钟 */
     /* {ss} 会替换成两位秒 */
-    'filePathFormat' => "/ufun/upfiles/files/{yyyy}{mm}/{dd}{time}{rand:4}",
+    'filePathFormat' => "/upfiles/files/{yyyy}{mm}/{dd}{time}{rand:4}",
 //    'uploadMaxSize' => 2097152,
     'uploadMaxSize' => 2097152000000,
     'uploadAllowFiles' => array(".png", ".jpg", ".jpeg", ".gif",

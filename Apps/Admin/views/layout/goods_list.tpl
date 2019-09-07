@@ -158,7 +158,7 @@
     <a class="samao-link-minibtn" href="__SELF__/edit?id={@$rs.id@}">编辑</a>
     {@if $rs.is_option@}
     <a dialog="1" class="samao-link-minibtn" class="samao-link-minibtn" href="__APPROOT__/goods_spec?gid={@$rs.id@}">规格管理</a>
-    <a dialog="1" class="samao-link-minibtn" class="samao-link-minibtn" href="__APPROOT__/goods_options?goods_id={@$rs.id@}&mid={@$rs.merchant_id@}">新规格管理</a>
+    <!--<a dialog="1" class="samao-link-minibtn" class="samao-link-minibtn" href="__APPROOT__/goods_options?goods_id={ @$rs.id@}&mid={ @$rs.merchant_id@}">新规格管理</a>-->
     {@/if@}
     {@if $rs.deleted eq 0@}
     <a onclick="return confirm('确定要置入回收站吗？');" class="samao-link-minibtn" href="__SELF__/do_recycle?id={@$rs.id@}">回收</a>

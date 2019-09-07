@@ -45,7 +45,6 @@ class GoodsController extends SmcmsController{
         }
         $vals['add_time'] = date('Y-m-d H:i:s');
         $vals['update_time'] = date('Y-m-d H:i:s');
-        var_dump($vals['attr']);die();
         $this->beforeSaveModel($model);//todo
 //        $model->add();
         $msg = '';
@@ -79,7 +78,6 @@ class GoodsController extends SmcmsController{
         }
         $vals['update_time'] = date('Y-m-d H:i:s');
         $this->beforeSaveModel($model);//todo
-        var_dump($vals['attr']);die();
 //        $model->update($this->id);
         DB::update("@pf_{$model->tbname}",$vals,$this->id);
         $this->success('编辑数据成功');

@@ -25,16 +25,6 @@ class HotWordsModel extends SmcmsModel {
                         'maxlength' => '热搜词长度不能超过{0}位'
                     ),
             ),
-            'school_id' => array(
-                'label' => '学校id',
-                'label_width' => 150,
-                'type' => 'text',
-                'data_val' => array(
-                ),
-                'data_val_msg' => array(
-                ),
-                'row_hide' => true
-            ),
             'sort' => array (
                 'label' => '排序',
                 'label_width' => 150,
